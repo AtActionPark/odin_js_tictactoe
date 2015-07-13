@@ -19,3 +19,5 @@ Build a tic-tac-toe game in the browser where two human players can play against
 3. The game logic should then check whether the game is over -- if any player has achieved victory or if there are no more turns available.  In the event of victory or defeat, display an appropriate message on the screen.
 4. Optional -- switch out the "X" and "O" letters with appropriate (or funny) images.
 3. Push your solution to Github and post the link to it below.
+
+[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_js_tictactoe/blob/master/index.html)
